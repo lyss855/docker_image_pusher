@@ -3,10 +3,10 @@
 #openmetadata/server:1.6.5
 #openmetadata/ingestion:1.6.5
 
-#openmetadata/db:1.5.6
+openmetadata/db:1.4.3
 #elasticsearch:8.10.2
-#openmetadata/server:1.5.6
-openmetadata/ingestion:1.5.6
+#openmetadata/server:1.4.3
+#openmetadata/ingestion:1.4.3
 
 
 #nginx
