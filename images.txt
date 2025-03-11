@@ -5,8 +5,10 @@
 
 #openmetadata/db:1.4.3
 #elasticsearch:8.10.2
-openmetadata/server:1.4.3
+#openmetadata/server:1.4.3
 #openmetadata/ingestion:1.4.3
+
+openmetadata/postgresql:1.4.3
 
 
 #nginx
